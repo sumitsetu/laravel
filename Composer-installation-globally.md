@@ -1,6 +1,9 @@
 ## Composer Installation requirements
 <p>Composer requires PHP 5.3.2+ to run. A few sensitive php settings and compile flags are also required, but when using the installer you will be warned about any incompatibilities.</p>
 
+## How to check php version using command prompt
+> - type **php -v** in cmd
+
 ## How to install Composer
 > - First Go to this link **https://getcomposer.org/download/**
 > - Copy this code from the above page

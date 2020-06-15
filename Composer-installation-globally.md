@@ -6,6 +6,9 @@
 ## How to check php version using command prompt
 > - type **php -v** in cmd
 > - If command prompt shows command not recognized. then follow the step to set path environment variable
+>   - Right click on my computer and click on properties.
+>   - On right side there is advanced system settings option. Click on that.
+>   - Now in system properties click on tab Advanced
 
 ## How to install Composer
 > - First Go to this link **https://getcomposer.org/download/**
